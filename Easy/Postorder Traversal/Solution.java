@@ -2,10 +2,6 @@
 
 //User function Template for Java
 
-
-
-//User function Template for Java
-
 /* A Binary Tree node
 class Node {
     int data;
